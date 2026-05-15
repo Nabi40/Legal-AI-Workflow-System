@@ -1,8 +1,6 @@
 ﻿## Legal-AI-Workflow-System
- 
----
 
-# An AI-powered Django REST Framework pipeline for processing messy legal-style documents, extracting structured information, retrieving grounded evidence, generating legal-style drafts, and improving future drafts using operator edits.
+An AI-powered Django REST Framework pipeline for processing messy legal-style documents, extracting structured information, retrieving grounded evidence, generating legal-style drafts, and improving future drafts using operator edits.
 
 ---
  
