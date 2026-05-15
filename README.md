@@ -12,7 +12,7 @@ An AI-powered Django REST Framework pipeline for processing messy legal-style do
 - Image-based legal files
 - Noisy OCR inputs
 
-## Capabilities:
+## Capabilities
 
 - OCR extraction using Tesseract
 - PDF text extraction
